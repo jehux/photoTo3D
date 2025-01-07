@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "R2M7SXF49X.mx.com.jehux.PhotoTo3D",
+                "paths": [ "/path/*", "/" ]
+            }
+        ]
+    }
+}
